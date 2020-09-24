@@ -1,0 +1,15 @@
+{
+	"list": [{
+		"name": "(吃饭了吃饭了)傻妞",
+		"url": "https://gitee.com/Bave/giao-tone-server/raw/master/sound/shaniu_chifanle.mp3"
+	}, {
+		"name": "(饿死了饿死了)傻妞",
+		"url": "https://gitee.com/Bave/giao-tone-server/raw/master/sound/shaniu_esile.mp3"
+	}, {
+		"name": "idou_断电了，哪还有明天",
+		"url": "https://gitee.com/Bave/giao-tone-server/raw/master/sound/idou_duandianle.mp3"
+	}, {
+		"name": "idou_我今天太困了，明天再喜欢你吧",
+		"url": "https://gitee.com/Bave/giao-tone-server/raw/master/sound/idou_wotaikunle.ogg"
+	}]
+}
