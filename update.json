@@ -1,0 +1,8 @@
+{
+  "update": "Yes",
+  "new_version": "9.9.9",
+  "version_code": 20200422,
+  "apk_file_url": "https://mov.bavelee.cn/update/SaltedFishMov",
+  "update_log": "1. 优化播放线路\n2. 优化视频解析逻辑\n3. 修复历史记录无法保存的问题",
+  "constraint": false
+}
