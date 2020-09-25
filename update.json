@@ -1,8 +1,7 @@
 {
-  "update": "Yes",
-  "new_version": "9.9.9",
-  "version_code": 9,
-  "apk_file_url": "https://mov.bavelee.cn/update/SaltedFishMov",
-  "update_log": "1. 优化播放线路\n2. 优化视频解析逻辑\n3. 修复历史记录无法保存的问题",
-  "constraint": true
+  "versionCode": 99,
+  "versionName": "9.0.0",
+  "content":"1.新增抢单功能#2.性能优化",//使用 # 来进行换行
+  "minSupport":1,	//最低支持版本，小于此版本必须强制更新
+  "url":"apk download url"
 }
