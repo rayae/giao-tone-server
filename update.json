@@ -1,7 +1,7 @@
 {
-  "versionCode": 99,
+  "versionCode": 0,
   "versionName": "9.0.0",
   "content":"1.新增抢单功能#2.性能优化",
-  "minSupport":10,
+  "minSupport":0,
   "url":"apk download url"
 }
