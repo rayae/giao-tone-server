@@ -1,7 +1,7 @@
 {
-  "verCode": 8,
-  "verName": "1.0.6",
-  "content": "解决部分设备播放声音不兼容无声音的问题。\n出现播放音频导致系统全部静音的问题请关闭右上角【隐藏系统充电音】选项",
+  "verCode": 9,
+  "verName": "1.0.7",
+  "content": "1. 修复代码逻辑错误导致的静音问题，可以尝试【隐藏系统充电音】功能了\n2. 增加【独立音量】，静音状态会自动调节到独立音量继续进行播放\n3. 四个可选的声音通道\n大家的需求我都尽量满足，这几天真的太累了。若下载失败请到【酷安】更新。",
   "isForceUpdate": true,
   "downloadUrl":"https://gitee.com/Bave/giao-tone-server/raw/master/apk-release/GiaoTone-release-latest.apk"
 }
