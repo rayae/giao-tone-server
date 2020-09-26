@@ -1,7 +1,6 @@
 # -*- coding: UTF-8 -*-
-import os,json
+import os, json, codecs
 data = []
-i = 0
 os.chdir('sound')
 files = os.listdir('.')
 files.sort()
@@ -15,7 +14,5 @@ for file in files:
 list = {"list" : data}
 
 file_name = '../data.json'
-with open(file_name,'w') as file_obj:
-	str = json.dumps(list).encode('utf-8').decode("unicode_escape")
-	print(str)
-	file_obj.write(str)
+with codecs.open(file_name, 'w', encoding='utf-8') as file_obj:
+	file_obj.write(json.dumps(list).encode('utf-8').decode("unicode_escape"))
