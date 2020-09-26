@@ -1,7 +1,7 @@
 {
-  "verCode": 0,
-  "verName": "1.0.4",
-  "content": "1. 优化【不显示最近任务】体验\n2. 增加【使用通知音量】开关\n3. Android 8.0 增加【应用常驻内存】开关\n4. 增加【自定义生效时间】开关\n5. 增加更多电量等级选项\n6. 增加【在线音频】\n7. 修复无声音以及崩溃的Bug",
+  "verCode": 8,
+  "verName": "1.0.6",
+  "content": "解决部分设备播放声音不兼容无声音的问题。\n出现播放音频导致系统全部静音的问题请关闭右上角【隐藏系统充电音】选项",
   "isForceUpdate": true,
   "downloadUrl":"https://gitee.com/Bave/giao-tone-server/raw/master/apk-release/GiaoTone-release-latest.apk"
 }
