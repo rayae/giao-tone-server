@@ -1,7 +1,7 @@
 {
-  "versionCode": 0,
-  "versionName": "1.0.4",
-  "content":"紧急修复Android 10 写入权限问题#1. 优化【不显示最近任务】体验#2. 增加【使用通知音量】开关#3. Android 8.0 增加【应用常驻内存】开关#4. 增加【自定义生效时间】开关#5. 增加更多电量等级选项#6. 增加【在线音频】#7. 修复若干BUG",
-  "minSupport": 6,
-  "url":"https://gitee.com/Bave/giao-tone-server/raw/master/apk-release/GiaoTone_1.0.4-6.apk"
+  "verCode": 0,
+  "verName": "1.0.4",
+  "content": "1. 优化【不显示最近任务】体验#2. 增加【使用通知音量】开关\n3. Android 8.0 增加【应用常驻内存】开关\n4. 增加【自定义生效时间】开关\n5. 增加更多电量等级选项\n6. 增加【在线音频】\n7. 修复若干BUG",
+  "isForceUpdate": true,
+  "downloadUrl":"https://gitee.com/Bave/giao-tone-server/raw/master/apk-release/GiaoTone-release-latest.apk"
 }
