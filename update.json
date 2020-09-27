@@ -1,7 +1,7 @@
 {
-  "verCode": 10,
+  "verCode": 11,
   "verName": "1.0.8",
-  "content": "增加了多个服务器镜像地址，在线音频使用不了的到设置中更换主服务器。\n若下载失败请到【酷安】更新。",
+  "content": "增加了多个服务器镜像地址，在线音频使用不了的到设置中更换主服务器\n解决腾讯码市乱码问题\n若下载失败请到【酷安】更新。",
   "isForceUpdate": true,
   "downloadUrl":"https://imbavelee.coding.net/p/GiaoTone/d/giao-tone-server/git/raw/master/apk-release/GiaoTone-release-latest.apk"
 }
