@@ -8,7 +8,7 @@ for file in files:
 		if os.path.isfile(file) and file.endswith('mp3') or file.endswith('ogg'):
 			name = os.path.splitext(file)[0].split('_')[-1]
 			url = "https://gitee.com/Bave/giao-tone-server/raw/master/sound/" + file
-			item = {'name' : name, 'url' : url}
+			item = {'name' : name, 'url' : url, 'url2' : file}
 			data.append(item)
 
 list = {"list" : data}
