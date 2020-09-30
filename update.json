@@ -1,7 +1,7 @@
 {
-  "verCode": 13,
-  "verName": "1.0.10",
-  "content": "【增加】流氓后台\n【修复】提升用户体验\n若下载失败请到【酷安】更新。",
+  "verCode": 15,
+  "verName": "1.0.11",
+  "content": "【修复】崩溃问题\n【修复】部分用户打不开、白屏\n若下载失败请到【酷安】更新。",
   "isForceUpdate": true,
   "downloadUrl":"https://imbavelee.coding.net/p/GiaoTone/d/giao-tone-server/git/raw/master/apk-release/GiaoTone-release-latest.apk"
 }
