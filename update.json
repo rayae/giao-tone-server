@@ -1,7 +1,7 @@
 {
   "verCode": 17,
   "verName": "1.0.13",
-  "content": "【增加】默认声音通道，请重新修改声音通道！！！！\n【修复】部分用户存在的回音为题\n【修复】部分用户无声音问题\n若下载失败请到【酷安】更新。",
+  "content": "【增加】默认声音通道，首次打开声音通道会自动设置为默认！！！！\n【修复】部分用户存在的回音问题\n【修复】部分用户无声音问题\n若下载失败请到【酷安】更新。",
   "isForceUpdate": true,
   "downloadUrl":"https://imbavelee.coding.net/p/GiaoTone/d/giao-tone-server/git/raw/master/apk-release/GiaoTone-release-latest.apk"
 }
