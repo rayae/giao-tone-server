@@ -2,6 +2,6 @@
   "verCode": 22,
   "verName": "1.1.0",
   "content": "【修复】某些设备上获取不到缓存目录导致的下载闪退\n【修复】某些情况下会丢失声音(后台服务被杀死)\n【修复】双进程相互守护\n【增加】默认显示通知，可以屏幕通知(为了保活)\n若下载失败请到【酷安】更新。",
-  "isForceUpdate": true,
+  "isForceUpdate": false,
   "downloadUrl":"https://imbavelee.coding.net/p/GiaoTone/d/giao-tone-server/git/raw/master/apk-release/GiaoTone-release-latest.apk"
 }
