@@ -1,10 +1,10 @@
 {
 	"notice": {
-		"content": "如果【最近列表中】没有本程序，请在【应用设置】里关闭【隐藏最近任务】",
-		"id": "notice_10001"
+		"content": "①、②、③群已经满了不会通过审核，请加④群，作者目前无力升级千人群",
+		"id": "notice_10002"
 	},
 	"qqgroup": {
-		"content": "官方QQ交流 1136835746",
-		"qqkey": "H2VbotMxyDigWRd5Qzb78Ijx8iCKXMlB"
+		"content": "官方QQ交流④群 1148682294",
+		"qqkey": "IJK1f04HKoQ7Ckle0lRfeOavN_wj5o2F"
 	}
 }
