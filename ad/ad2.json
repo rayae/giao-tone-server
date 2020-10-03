@@ -1,6 +1,7 @@
 {
-    "disabled" : 1,
-	"forwardUrl" : "https://gitee.com/Bave/giao-tone-server/tree/master/sound",
-	"imageUrl": "https://gitee.com/Bave/giao-tone-server/raw/master/ad/xmyp.jpg",
-	"text": "爱追剧的宝贝们看过来\n全网电影电视剧综艺vip免费看\n支持投屏到电视，不下载软件\n长按保存图片， 在微信选择小程序码扫一扫"
+    "disabled" : 0,
+	"forwardUrl" : "",
+	"imageUrl": "https://gitee.com/Bave/giao-tone-server/raw/master/ad/alipay.jpg",
+	"isWechat": false,
+	"text": "打开支付宝首页搜“693722686”领红包，领到大红包的小伙伴赶紧使用哦！\n长按保存图片， 在【支付宝】中选择扫一扫"
 }
