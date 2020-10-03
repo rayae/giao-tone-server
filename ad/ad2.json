@@ -1,5 +1,5 @@
 {
-    "disabled" : 0,
+    "disabled" : 1,
 	"forwardUrl" : "",
 	"imageUrl": "https://gitee.com/Bave/giao-tone-server/raw/master/ad/alipay.jpg",
 	"isWechat": false,
