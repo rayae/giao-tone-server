@@ -2,6 +2,6 @@
   "verCode": 24,
   "verName": "1.1.2",
   "content": "【修复】修复程序在后台时导致的的闪退问题\n【修复】修复在线音频偶尔请求不到数据\n若下载失败请到【酷安】更新。",
-  "isForceUpdate": true,
+  "isForceUpdate": false,
   "downloadUrl":"https://imbavelee.coding.net/p/GiaoTone/d/giao-tone-server/git/raw/master/apk-release/GiaoTone-release-latest.apk"
 }
