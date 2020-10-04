@@ -1,7 +1,8 @@
 {
-    "disabled" : 1,
-	"forwardUrl" : "",
-	"imageUrl": "https://gitee.com/Bave/giao-tone-server/raw/master/ad/alipay.jpg",
+    "disabled" : 0,
+	"forwardUrl" : "https://www.wjx.top/m/92884193.aspx",
+	"imageUrl": "https://gitee.com/Bave/giao-tone-server/raw/master/ad/llk2.jpg",
+	"isUrlAd" : true,
 	"isWechat": false,
-	"text": "打开支付宝首页搜“693722686”领红包\n领到大红包的小伙伴赶紧使用哦！\n长按保存图片， 在【支付宝】中选择扫一扫"
+	"text": "联通5G流量卡免费送\n30元包50G流量任性用\n无通话功能，纯上网流量\n全程高速，不限速\n免实名流量不虚跑"
 }
