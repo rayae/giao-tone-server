@@ -12,7 +12,8 @@ for category in categories:
 	for sound_file in sounds:
 		name = os.path.splitext(sound_file)[0].split('_')[-1]
 		url = "https://imbavelee.coding.net/p/GiaoTone/d/giao-tone-server/git/raw/master/sound/" + category + '/' + sound_file
-		item = {'name' : category_name + ' ' + name, 'url' : url, 'category' : category_name}
+		# item = {'name' : category_name + '|' + name, 'url' : url, 'category' : category_name}
+		item = {'name' : name, 'url' : url, 'category' : category_name}
 		data.append(item)
 
 list = {"list" : data}
