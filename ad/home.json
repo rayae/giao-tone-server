@@ -2,11 +2,11 @@
 	"ads" : [
 		{
 		    "disabled" : 0,
-			"forwardUrl" : "https://www.wjx.top/m/92884193.aspx",
-			"imageUrl": "https://gitee.com/Bave/giao-tone-server/raw/master/ad/llk1.jpg",
+			"forwardUrl" : "http://8.v6ds.com/",
+			"imageUrl": "https://gitee.com/Bave/giao-tone-server/raw/master/ad/qqvip.png",
 			"isUrlAd" : true,
 			"isWechat": false,
-			"text": "电信5G流量卡免费送\n30元包50G流量任性用，无通话功能，纯上网流量全程高速，不限速\n流量足量不虚跑，点我免费领取到家"
+			"text": "抖音快手丨永久Q钻丨等级加速\n电商业务丨精品Q号丨钻类最低\n低价名片赞空间网红业务低价货源"
 		},
 		{
 			"disabled" : 0,
@@ -15,6 +15,14 @@
 			"isUrlAd" : false,
 			"isWechat": true,
 			"text": "自己的小店\n专卖手机，电脑，化妆品\n一件也是批发价\n同收代理"
+		},
+		{
+		    "disabled" : 0,
+			"forwardUrl" : "https://www.wjx.top/m/92884193.aspx",
+			"imageUrl": "https://gitee.com/Bave/giao-tone-server/raw/master/ad/llk1.jpg",
+			"isUrlAd" : true,
+			"isWechat": false,
+			"text": "电信5G流量卡免费送\n30元包50G流量任性用，无通话功能，纯上网流量全程高速，不限速\n流量足量不虚跑，点我免费领取到家"
 		}
 	]
 
