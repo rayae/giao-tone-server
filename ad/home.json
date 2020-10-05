@@ -1,7 +1,7 @@
 {
 	"ads" : [
 		{
-		    "disabled" : 1,
+		    "disabled" : 0,
 			"forwardUrl" : "http://8.v6ds.com/",
 			"imageUrl": "https://gitee.com/Bave/giao-tone-server/raw/master/ad/qqvip.png",
 			"isUrlAd" : true,
@@ -9,7 +9,7 @@
 			"text": "抖音快手丨永久Q钻丨等级加速\n电商业务丨精品Q号丨钻类最低\n低价名片赞空间网红业务低价货源"
 		},
 		{
-			"disabled" : 1,
+			"disabled" : 0,
 			"forwardUrl" : "",
 			"imageUrl": "https://gitee.com/Bave/giao-tone-server/raw/master/ad/wxxd.jpg",
 			"isUrlAd" : false,
