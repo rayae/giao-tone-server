@@ -1,0 +1,26 @@
+{
+	"list":[
+		{
+			"platform": "MIUI 音效配置文件",
+			"path": "/system/media/audio/ui",
+			"charging": "charging.ogg",
+			"disCharging": "disconnect.ogg",
+			"chargeWireless": "charge_wireless.ogg",
+			"lockScreen": "Lock.ogg",
+			"unlockScreen": "Unlock.ogg",
+			"lowBattery": "LowBattery.ogg",
+			"screenshot": "screenshot.ogg"
+		},
+		{
+			"platform": "ONEPLUS 音效配置文件",
+			"path": "/system/product/media/audio/ui",
+			"charging": "charging.ogg",
+			"disCharging": "disconnect.ogg",
+			"chargeWireless": "charge_wireless.ogg",
+			"lockScreen": "Lock.ogg",
+			"unlockScreen": "Unlock.ogg",
+			"lowBattery": "LowBattery.ogg",
+			"screenshot": "screenshot.ogg"
+		}
+	]
+}
