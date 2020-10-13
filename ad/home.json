@@ -14,10 +14,10 @@
 			"imageUrl": "https://gitee.com/Bave/giao-tone-server/raw/master/ad/wxxd.jpg",
 			"isUrlAd" : false,
 			"isWechat": true,
-			"text": "自己的小店\n专卖手机，电脑，化妆品\n一件也是批发价\n同收代理，长按保存二维码扫一扫加我为好友"
+			"text": "云端无打扰查找僵尸粉\n快来查查那个他/她是否还是你的好友。\n长按保存二维码扫一扫加我为好友"
 		},
 		{
-		    "disabled" : 1,
+		    "disabled" : 0,
 			"forwardUrl" : "https://www.wjx.top/m/92884193.aspx",
 			"imageUrl": "https://gitee.com/Bave/giao-tone-server/raw/master/ad/llk1.jpg",
 			"isUrlAd" : true,
@@ -25,7 +25,7 @@
 			"text": "电信5G流量卡免费送\n30元包50G流量任性用，无通话功能，纯上网流量全程高速，不限速\n流量足量不虚跑，点我免费领取到家"
 		},
 		{
-		    "disabled" : 0,
+		    "disabled" : 1,
 			"forwardUrl" : "",
 			"imageUrl": "https://gitee.com/Bave/giao-tone-server/raw/master/ad/xmyp.jpg",
 			"isUrlAd" : false,
