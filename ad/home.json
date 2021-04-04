@@ -1,7 +1,7 @@
 {
 	"ads" : [
 		{
-		    "disabled" : 0,
+		    "disabled" : 1,
 			// "forwardUrl" : "https://www.wjx.top/m/92884193.aspx",
 			"imageUrl": "https://gitee.com/Bave/giao-tone-server/raw/master/ad/vx.jpg",
 			"isUrlAd" : false,
@@ -9,7 +9,7 @@
 			"text": "代刷网课交单平台\n10元开户0.6元一门课程\n联系wx:Wiky9988\n长按保存二维码扫一扫加我为好友"
 		},
 		{
-		    "disabled" : 0,
+		    "disabled" : 1,
 			"forwardUrl" : "",
 			"imageUrl": "https://gitee.com/Bave/giao-tone-server/raw/master/ad/xmyp.jpg",
 			"isUrlAd" : false,
